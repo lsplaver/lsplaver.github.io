@@ -1,0 +1,16 @@
+body {
+    background-color: lightcyan;    
+}
+
+table {
+    background-color: crimson;
+}
+
+.trNames {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.trAlternate {
+    background-color: dimgray;
+}
